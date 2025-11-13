@@ -30,11 +30,11 @@ Bot, **Google Teachable Machine** kullanılarak eğitilmiş bir **bilgisayarlı 
 ---
 
 ## ⚙️ Kullanılan Teknolojiler
-- **Google Teachable Machine** → Görüntü sınıflandırma modeli  
-- **TensorFlow.js** → Modelin Discord botu içinde çalışması  
-- **Discord.js (Node.js)** → Botun ana altyapısı  
-- **JavaScript** → İşlevsel ve basit entegrasyon
-
+- **Python 3.10+** – Ana programlama dili  
+- **discord.py** – Discord botunu oluşturmak için  
+- **TensorFlow / Keras** – Teachable Machine modelini yükleyip tahmin yapmak için  
+- **Pillow (PIL)** – Görsel işleme ve boyut düzenleme  
+- **NumPy** – Görselleri diziye çevirip modele beslemek için  
 ---
 
 ## 📁 Proje Yapısı
